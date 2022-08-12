@@ -8,3 +8,4 @@
 _______________________________________________________________________________________________________________________________________________________________________
 ### Projetos de Aulas - Módulo 01
 - [Fundamentos do Nodejs](https://github.com/ivangomestr/ignite-fundamentos-nodejs/ "Link")
+- [Primeira aplicação com Nodejs](https://github.com/ivangomestr/ignite-finapi/ "Link") 
